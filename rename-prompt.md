@@ -100,20 +100,6 @@ Files and context:
     }
   },
   {
-    "path": "STORY---PART-1.html",
-    "context": {
-      "title": "",
-      "first_heading": "Our StoryThe Journey from the City to the Temple Town"
-    }
-  },
-  {
-    "path": "STORY---PART-II.html",
-    "context": {
-      "title": "BedfordSquare | Our Story",
-      "first_heading": "Our Story - PART IIEmpowering our Staff through Education during the Pandemic"
-    }
-  },
-  {
     "path": "Training-Program-at-BSKC.html",
     "context": {
       "title": "BedfordSquare | Investing In Employees",
@@ -352,6 +338,24 @@ Files and context:
     }
   },
   {
+    "path": "imgs/022313161d736d80043e6b46eba6c4b4.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/04cd26a7e71848a5ebf8e88a2669b63b.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/059053ad72e6a8cd644cdfb0dfb1ed77.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/074836f3c0fd794000e9f3c1c93d7420.webp",
     "context": {
       "refs": [
@@ -398,6 +402,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/100a0309ddbb22d6af5f1e829600972c.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -479,6 +489,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/28fbfd0a03080becea84d8729cd4f189.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/2c3e9e69f29f15d8d913a20ab8a047a0.webp",
     "context": {
       "refs": [
@@ -524,6 +540,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/3086d55a13e1ccf43c27d4c6bd7feb69.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/358148169b7edc2d0048548455f2d0fe.webp",
     "context": {
       "refs": [
@@ -536,6 +558,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/371cd9c4752fd50d6a72cd0cba994035.svg",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -585,6 +613,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/3e39582987706d41db721482687f8a62.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/3eae07e8d853b0ff884e0480156bc039.webp",
     "context": {
       "refs": [
@@ -613,6 +647,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/40ab74826845b33c7b8c75808d62a72a.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -649,6 +689,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/47de7076173d447f85cc71d42ffe9183.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/4adf8b036cbf955e889e32c3ffd3aec1.webp",
     "context": {
       "refs": [
@@ -660,6 +706,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/4e367e59cf0110fcb76291c00ec04a66.pdf",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/4f1c9ca41e1b48bd52d672ee0c565148.webp",
     "context": {
       "refs": [
@@ -668,6 +720,18 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/4f247190d6d3ba111ea9661f7aa668ba.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/501a4bcb2e4d1b896c49c08a2f396a9a.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -916,6 +980,18 @@ Files and context:
     }
   },
   {
+    "path": "imgs/7739ec199d772f8c268950e4502b0f54.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/778ce088b476a3490d58caa02448e0e9.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/77adee5e2c6100f475ce5b3b7122a960.webp",
     "context": {
       "refs": [
@@ -1039,6 +1115,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/98d048157833e846710898487cf450dc.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/990edaef3261c6a949ac004cd4807a3d.webp",
     "context": {
       "refs": [
@@ -1054,6 +1136,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/9c2d5c4542db69f325dfc0c504950d46.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/9c964e92ad4e6e832e0c0d54491bcca8.webp",
     "context": {
       "refs": [
@@ -1062,6 +1150,18 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/a490f104164a21f043b30ed302f2b591.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/a4b114ef5c554239cb189e59db6bb32a.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -1091,6 +1191,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/ae7b1f69bc33c5bdbe147fd1c4cc8287.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/af84247f179e6dcfe6ffb35850af1409.webp",
     "context": {
       "refs": [
@@ -1117,6 +1223,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/b0abeff479cfd3e50b97da3d09cf2b85.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/b0d8a52af9705875479716cc31092feb.webp",
     "context": {
       "refs": [
@@ -1125,6 +1237,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/b0dc1228f2c289cb6d03084943206cf0.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -1181,6 +1299,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/b5721aca08135b6e061e17fae4016faa.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/b98049748cf781f5593c0699958a0fc4.webp",
     "context": {
       "refs": [
@@ -1189,6 +1313,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/b9832ce1e3dabce86326d05cacb89f43.svg",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -1218,6 +1348,18 @@ Files and context:
     }
   },
   {
+    "path": "imgs/bc26b60905a3cde8bd01d4872187a47a.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/be7b3ee99b12fa939c35a0e1c9b6c367.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/c11f6488465dded8c6c4cc2b84edc1b3.webp",
     "context": {
       "refs": [
@@ -1226,6 +1368,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/c1ec2177520de19f711646ff95f865e6.svg",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -1260,6 +1408,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/c629a29b579aaf2f209661223513b699.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -1308,6 +1462,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/d01aa261807e46079b40e5458987fd4d.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -1415,6 +1575,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/e5226b0140cfb7f55f5cb306af907faf.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -1738,6 +1904,20 @@ Files and context:
     "context": {
       "title": "BedfordSquare | Our Team",
       "first_heading": "SHANTHI B"
+    }
+  },
+  {
+    "path": "story-part-1.html",
+    "context": {
+      "title": "",
+      "first_heading": "Our StoryThe Journey from the City to the Temple Town"
+    }
+  },
+  {
+    "path": "story-part-ii.html",
+    "context": {
+      "title": "BedfordSquare | Our Story",
+      "first_heading": "Our Story - PART IIEmpowering our Staff through Education during the Pandemic"
     }
   },
   {
